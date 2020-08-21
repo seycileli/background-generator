@@ -35,5 +35,3 @@ function randomColor() {
 }
 
 random.addEventListener("click", randomColor);
-
-document.documentElement.style.setProperty('--animate-duration', '2s');
